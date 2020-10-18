@@ -66,7 +66,7 @@
                 add the download, and make it secure
             -->
             <!--<form action="?" method="POST">
-              <div class="g-recaptcha" data-sitekey="6LfP--EUAAAAAPTYqi79QM1fnzNe_zCiwHUuP4ZM"></div>
+              <div class="g-recaptcha" data-sitekey="6LfP(dashdash)EUAAAAAPTYqi79QM1fnzNe_zCiwHUuP4ZM"></div>
               <br/>
               <input type="submit" value="Download" id="invi">
             </form>-->
