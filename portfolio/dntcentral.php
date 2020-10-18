@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
@@ -14,49 +14,6 @@
         <link rel="stylesheet" type="text/css" href="/ldstyle.css">
         <link rel="icon" href="/img/ld.png">
     </head>
-    <script>
-        function set_color() {
-            document.getElementById("me").style.backgroundColor = "#FFFF00";
-            setInterval(change_color, 100);
-        }
-        function change_color() {
-
-            //rgb(255, 255, 0)
-            //change: add 2nd number, also can make this a predictable pattern or just a fun light show!
-            //maybe make border change to make it fun idk yet
-            var str = document.getElementById("me").style.backgroundColor;
-            var first_num = "";
-            var second_num = "";
-            for(var i=0; i<3; i++) {
-                if (str.substring(4+i, 5+i) == ",") break;
-                first_num = first_num + str.substring(4+i, 5+i); 
-            }
-            //for second str
-            for(var i=0; i<3; i++) {
-                if (str.substring(6+first_num.length + i, 7+first_num.length+i) == ",") break;
-                second_num = second_num + str.substring(6+first_num.length + i, 7+first_num.length+i); 
-            }
-            var third_num = parseInt(str.substring(8+first_num.length+second_num.length,str.length-1))+11;
-            first_num = parseInt(first_num) + 6;
-            if (first_num >= 255) first_num = 1;
-            first_num = first_num.toString(16);
-            if (first_num.length==1) first_num="0"+first_num;
-            second_num = parseInt(second_num) + 3;
-            if (second_num >= 255) second_num = 1;
-            second_num = second_num.toString(16);
-            if (second_num.length==1) second_num="0"+second_num;
-
-            if (third_num >= 255) third_num = 0;
-            third_num = third_num.toString(16);
-            if (third_num.length==1) third_num="0"+third_num;
-            var new_str = "#" + first_num + second_num + third_num;
-            document.getElementById("me").style.backgroundColor = new_str;
-            console.log(document.getElementById("me").style.backgroundColor);
-            console.log(first_num);
-            console.log(second_num);
-            console.log(third_num);
-    }
-    </script>
     <body id="home" onload="">
         <?php
         include("../ldnavbar.php");
