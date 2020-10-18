@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
@@ -13,8 +13,7 @@
         <title>Contact Information</title>
         <link rel="stylesheet" type="text/css" href="/ldstyle.css">
         <link rel="icon" href="/img/ld.png">
-    </head>
-    <script>
+        <script>
         //todo: instead of +-1, do +-x (where, preferably, x=4 or 8)
         //make it so that it has same styles of me, covers whole area, AND has text over it (do a lot of googling to figure this stuff out).
     	function set_color() {
@@ -121,6 +120,7 @@
         return hex;
     }
     </script>
+    </head>
     <body id="home" onload="set_color()">
     	<?php
     	include("ldnavbar.php");
