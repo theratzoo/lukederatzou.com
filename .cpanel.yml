@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/y5ri7hl905kl/public_html/lukederatzou.com/
+    - /bin/cp -R * $DEPLOYPATH
