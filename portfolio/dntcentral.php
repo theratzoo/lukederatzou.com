@@ -37,7 +37,7 @@
             <p>Notice: some of the following sections are a little Magic: the Gathering technical. Familiarizing oneself with the game is recommended before proceeding.</p>
             <br>
             <p>Also, for security reasons, I will refrain from posting code samples for the time being. If you have any questions regarding the code please message me.</p>
-            <!--can either include link to wiki, and/or include link to my own writeup on Magic: the Gathering, plus other stuff such as deck archetypes. Or even include the thing I submitted for WR 1010--->
+            <!--can either include link to wiki, and/or include link to my own writeup on Magic: the Gathering, plus other stuff such as deck archetypes. Or even include the thing I submitted for WR 1010-->
             <br />
             <hr class="mainhr" />
             <br />
