@@ -72,28 +72,22 @@
             <div class="row featsubhead">
                 <div class="col-4">
                     <h3><a href="features/calculators" class="featbutton">Calculators</a></h3>
-                    <img src="" class="">
                 </div>
                 <div class="col-4">
                     <h3><a href="features/showwork" class="featbutton">Show Work</a></h3>
-                    <img src="" class="">
                 </div>
                 <div class="col-4">
                     <h3><a href="features/practiceproblems" class="featbutton">Practice Problems</a></h3>
-                    <img src="" class="">
                 </div>
                 <br>
                 <div class="col-4">
                     <h3><a href="features/unitconverter" class="featbutton">Unit Converter</a></h3>
-                    <img src="" class="">
                 </div>
                 <div class="col-4">
                     <h3><a href="features/showequations" class="featbutton">Show Equations</a></h3>
-                    <img src="" class="">
                 </div>
                 <div class="col-4">
                     <h3><a href="features/quiz" class="featbutton">Quiz</a></h3>
-                    <img src="" class="">
                 </div>
             </div>
             <br>

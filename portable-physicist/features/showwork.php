@@ -60,13 +60,13 @@
                    <h3>It can be in the Calculator, Practice Problem, or Quiz section</h3>
                 </div>
                 <div class="col-2">
-                    <img src="/portable-physicist/screenshots/showwork/sample-calculator_save.png" class="sample-screenshot-half">
+                    <img src="/portable-physicist/screenshots/showwork/sample-calculator_save.png" class="sample-screenshot-half" alt="calculator save">
                 </div>
                 <div class="col-2">
-                    <img src="/portable-physicist/screenshots/showwork/sample-practiceproblem_save.png" class="sample-screenshot-half">
+                    <img src="/portable-physicist/screenshots/showwork/sample-practiceproblem_save.png" class="sample-screenshot-half" alt="practiceproblem save">
                 </div>
                 <div class="col-2">
-                    <img src="/portable-physicist/screenshots/showwork/sample-quiz_save.png" class="sample-screenshot-half">
+                    <img src="/portable-physicist/screenshots/showwork/sample-quiz_save.png" class="sample-screenshot-half" alt="quiz save">
                 </div>
                 
             </div>
@@ -78,7 +78,7 @@
 
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/showwork/sample-saving_problem.png" class="sample-screenshot-half"> > <!-- alert title entering PP-->
+                    <img src="/portable-physicist/screenshots/showwork/sample-saving_problem.png" class="sample-screenshot-half" alt="saving problem"> > <!-- alert title entering PP-->
                 </div>
             </div>
             <div class="row info">
@@ -98,10 +98,10 @@
                     <div id="parent">
                         <div class="row">
                             <div class="col-6">
-                                <img src="/portable-physicist/screenshots/showwork/sample-calculator_more.png" class="sample-screenshot">
+                                <img src="/portable-physicist/screenshots/showwork/sample-calculator_more.png" class="sample-screenshot" alt="calculator more">
                             </div>
                             <div class="col-6">
-                                <img src="/portable-physicist/screenshots/showwork/sample-practiceproblem_more.png" class="sample-screenshot">
+                                <img src="/portable-physicist/screenshots/showwork/sample-practiceproblem_more.png" class="sample-screenshot" alt="practiceproblem more">
                             </div>
                         </div>
                     </div>
@@ -111,10 +111,10 @@
                     <div>
                         <div class="row">
                             <div class="col-6">
-                                <img src="/portable-physicist/screenshots/showwork/sample-quiz_exit.png" class="sample-screenshot">
+                                <img src="/portable-physicist/screenshots/showwork/sample-quiz_exit.png" class="sample-screenshot" alt="quiz exit">
                             </div>
                             <div class="col-6">
-                                <img src="/portable-physicist/screenshots/showwork/sample-overview_showwork.png" class="sample-screenshot">
+                                <img src="/portable-physicist/screenshots/showwork/sample-overview_showwork.png" class="sample-screenshot" alt="showwork overview">
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
 
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/showwork/sample-pick_problem.png" class="sample-screenshot-half">
+                    <img src="/portable-physicist/screenshots/showwork/sample-pick_problem.png" class="sample-screenshot-half" alt="pick problmes">
                 </div>
             </div>
             <div class="row info">
@@ -140,7 +140,7 @@
 
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/showwork/sample-the_problem.png" class="sample-screenshot-half">
+                    <img src="/portable-physicist/screenshots/showwork/sample-the_problem.png" class="sample-screenshot-half" alt="the showwork problem">
                 </div>
             </div>
             <br>
@@ -158,7 +158,7 @@
                     <!--brief description. example screenshot-->
                 </div>
                 <div class="col-4">
-                    <img src="/portable-physicist/screenshots/sample-work_1.png" class="sample-screenshot-sw" alt="">
+                    <img src="/portable-physicist/screenshots/sample-work_1.png" class="sample-screenshot-sw" alt="work page 1">
                 </div>
             </div>
             <br>
@@ -169,7 +169,7 @@
                     <!--brief description. example screenshot-->
                 </div>
                 <div class="col-4">
-                    <img src="/portable-physicist/screenshots/sample-work_2.png" class="sample-screenshot-sw" alt="">
+                    <img src="/portable-physicist/screenshots/sample-work_2.png" class="sample-screenshot-sw" alt="work page 2">
                 </div>
             </div>
             <br>
@@ -179,7 +179,7 @@
                     <p>For most Physics concepts in Portable Physicist, only one equation is available. Unless you are working with Kinematics, there is only one equation to pick from. Once the equation is identified, writing it down with the variables helps visualize the problem better than plugging in number prematurely.</p>
                 </div>
                 <div class="col-4">
-                    <img src="/portable-physicist/screenshots/sample-work_3.png" class="sample-screenshot-sw" alt="">
+                    <img src="/portable-physicist/screenshots/sample-work_3.png" class="sample-screenshot-sw" alt="work page 3">
                 </div>
             </div>
             <br>
@@ -189,7 +189,7 @@
                     <p>With the equation, rearrange the variables with algebra in order to set it up in an easily solveable format. The form you want is to have only the unknown on one side, and all the other variables and constants on the other side. Doing this makes calculation errors less frequent. If you are unsure of how to do the algebra, it is fine to skip this step (but be careful when plugging in the values).</p>
                 </div>
                 <div class="col-4">
-                    <img src="/portable-physicist/screenshots/sample-work_4.png" class="sample-screenshot-sw" alt="">
+                    <img src="/portable-physicist/screenshots/sample-work_4.png" class="sample-screenshot-sw" alt="work page 4">
                 </div>
             </div>
             <br>
@@ -199,7 +199,7 @@
                     <p>After the equation is formatted best, the known varibles' values are ready to be placed into the equation. Assuming the equation is properly formatted, a simple calculation will result in the answer. Double check your units for the known values before plugging in- forgetting to convert before plugging in is a common mistake.</p>
                 </div>
                 <div class="col-4">
-                    <img src="/portable-physicist/screenshots/sample-work_5.png" class="sample-screenshot-sw" alt="">
+                    <img src="/portable-physicist/screenshots/sample-work_5.png" class="sample-screenshot-sw" alt="work page 5">
                 </div>
             </div>
             <br>
@@ -210,7 +210,7 @@
                     <!--units, rounding-->
                 </div>
                 <div class="col-4">
-                    <img src="/portable-physicist/screenshots/sample-work_6.png" class="sample-screenshot-sw" alt="">
+                    <img src="/portable-physicist/screenshots/sample-work_6.png" class="sample-screenshot-sw" alt="work page 6">
                 </div>
             </div>
 

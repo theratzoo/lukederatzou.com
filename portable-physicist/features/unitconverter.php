@@ -53,10 +53,10 @@
                     <h3>1: Select a variable</h3> 
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/unitconverter/sample-select_var_menu.png" class=""><!--btn-->
+                    <img src="/portable-physicist/screenshots/unitconverter/sample-select_var_menu.png" class="sample-screenshot" alt="select variable menu"><!--btn-->
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/unitconverter/sample-select_var_picker.png" class="">
+                    <img src="/portable-physicist/screenshots/unitconverter/sample-select_var_picker.png" class="sample-screenshot" alt="select variable picker">
                     <!--picker-->
                 </div>
             </div>
@@ -65,7 +65,7 @@
                     <h3>2: Enter in the initial value</h3> 
                 </div>
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/unitconverter/sample-value_field.png" class="">
+                    <img src="/portable-physicist/screenshots/unitconverter/sample-value_field.png" class="sample-screenshot" alt="sample value field">
                     <!--img field w/ value in it-->
                 </div>          
             </div>
@@ -74,11 +74,11 @@
                     <h3>3: Select the original unit</h3> 
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/unitconverter/sample-original_unit_menu.png" class="">
+                    <img src="/portable-physicist/screenshots/unitconverter/sample-original_unit_menu.png" class="sample-screenshot" alt="original unit menu">
                     <!--btn-->
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/unitconverter/sample-original_unit_picker.png" class="">
+                    <img src="/portable-physicist/screenshots/unitconverter/sample-original_unit_picker.png" class="sample-screenshot" alt="original unit picker">
                     <!--picker-->
                 </div>
             </div>
@@ -87,11 +87,11 @@
                     <h3>4: Select the unit you want to convert it to</h3> 
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/unitconverter/sample-new_unit_menu.png" class="">
+                    <img src="/portable-physicist/screenshots/unitconverter/sample-new_unit_menu.png" class="sample-screenshot" alt="new unit menu">
                     <!--btn-->
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/unitconverter/sample-new_unit_picker.png" class="">
+                    <img src="/portable-physicist/screenshots/unitconverter/sample-new_unit_picker.png" class="sample-screenshot" alt="new unit picker">
                     <!--picker-->
                 </div>
             </div>
@@ -100,11 +100,11 @@
                     <h3>5: Tap the convert button</h3> 
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/unitconverter/sample-convert_button.png" class="">
+                    <img src="/portable-physicist/screenshots/unitconverter/sample-convert_button.png" class="sample-screenshot" alt="convert button">
                     <!--btn-->
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/unitconverter/sample-conversion_answer.png" class="">
+                    <img src="/portable-physicist/screenshots/unitconverter/sample-conversion_answer.png" class="sample-screenshot" alt="conversion answer">
                     <!--answer-->
                 </div>
             </div>
@@ -121,7 +121,7 @@
                     <!-- like A: identify knowns and unknowns. B: convert values of knowns to SI. C: get equation... etc etc. Can include an image of a sample one from app as well for each of these "steps"-->
                 </div>
                 <div class="col-4">
-                    <img src="/portable-physicist/screenshots/sample-past_conversions.png" class="" alt="past conversion screen">
+                    <img src="/portable-physicist/screenshots/sample-past_conversions.png" class="sample-screenshot" alt="past conversion screen">
                 </div>
             </div>
             <!--About-->

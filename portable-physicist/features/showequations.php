@@ -54,7 +54,7 @@
                 </div>
 
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_1.gif" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_1.gif" class="sample-screenshot" alt="kinematics equation 1">
                 </div>
             </div>
             <br>
@@ -64,7 +64,7 @@
                 </div>
 
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_2.gif" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_2.gif" class="sample-screenshot" alt="kinematics equation 2">
                 </div>
             </div>
             <br><div class="row">
@@ -73,7 +73,7 @@
                 </div>
 
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_3.gif" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_3.gif" class="sample-screenshot" alt="kinematics equation 3">
                     <!--picker-->
                 </div>
             </div>
@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_4.gif" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_4.gif" class="sample-screenshot" alt="kinematics equation 4">
                     <!--picker-->
                 </div>
             </div>
@@ -93,7 +93,7 @@
                 </div>
 
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_5.gif" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinematics_5.gif" class="sample-screenshot" alt="kinematics equation 5">
                     <!--picker-->
                 </div>
             </div>
@@ -103,7 +103,7 @@
                 </div>
 
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/showequations/sample-equation_forces.gif" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/showequations/sample-equation_forces.gif" class="sample-screenshot" alt="force equation">
                     <!--picker-->
                 </div>
             </div>
@@ -113,7 +113,7 @@
                 </div>
 
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinetic_energy.gif" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/showequations/sample-equation_kinetic_energy.gif" class="sample-screenshot" alt="kinetic energy equation">
                     <!--picker-->
                 </div>
             </div>
@@ -123,7 +123,7 @@
                 </div>
 
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/showequations/sample-equation_gravitational_force.gif" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/showequations/sample-equation_gravitational_force.gif" class="sample-screenshot" alt="gravitational force equation">
                     <!--picker-->
                 </div>
             </div>

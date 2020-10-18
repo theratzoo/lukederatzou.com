@@ -62,7 +62,7 @@
 
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_values.png" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_values.png" class="sample-screenshot" alt="sample screenshot">
                 </div>
                 
             </div>
@@ -75,7 +75,7 @@
 
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_zero_required.png" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_zero_required.png" class="sample-screenshot" alt="another sample screenshot">
                 </div>
                 
             </div>
@@ -84,10 +84,10 @@
                     <h3>2: Select units for the values</h3> <!--unit btns-->
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_unit_selection.png" class="sample-screenshot" id="parent">
+                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_unit_selection.png" class="sample-screenshot" id="parent" alt="screenshot showing unit selection">
                 </div>
                 <div class="col-2">
-                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_units.png" class="sample-screenshot" id="child">
+                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_units.png" class="sample-screenshot" id="child" alt="screenshot showing units">
                 </div>
             </div>
             <div class="row info">
@@ -95,10 +95,10 @@
                     <h3>3: Press "Calculate"</h3>
                 </div>
                 <div class="col-2">
-                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_calculate.png" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_calculate.png" class="sample-screenshot" alt="screenshot showing calculate button">
                 </div>
                 <div class="col-3">
-                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_answer.png" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/calculators/sample-calculator_answer.png" class="sample-screenshot" alt="screenshot showing answer button">
                 </div>
                 
             </div>

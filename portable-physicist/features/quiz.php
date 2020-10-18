@@ -65,7 +65,7 @@
                     <p>The first characteristic that must be set up is the number of problems for a given Quiz session. Simply put, this determines the number of problems the user will do before their Quiz ends. Since Quizes cannot be accessed when the app restarts (as of now), it is best to pick a number that you can reasonably finish in the time you have.</p>
                 </div>
                 <div class="col-6">
-                    <img src="/portable-physicist/screenshots/quiz/sample-setup_field.png" class="sample-screenshot">
+                    <img src="/portable-physicist/screenshots/quiz/sample-setup_field.png" class="sample-screenshot" alt="setup fields for quiz">
                 </div>
             </div>
             <br>
