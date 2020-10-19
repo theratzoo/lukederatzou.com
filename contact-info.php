@@ -13,6 +13,7 @@
         <title>Contact Information</title>
         <link rel="stylesheet" type="text/css" href="/ldstyle.css">
         <link rel="icon" href="/img/ld.png">
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
         <script>
         //todo: instead of +-1, do +-x (where, preferably, x=4 or 8)
         //make it so that it has same styles of me, covers whole area, AND has text over it (do a lot of googling to figure this stuff out).

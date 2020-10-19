@@ -13,6 +13,7 @@
         <title>Portfolio</title>
         <link rel="stylesheet" type="text/css" href="/ldstyle.css">
         <link rel="icon" href="/img/ld.png">
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
     </head>
     <body id="home">
         <?php
