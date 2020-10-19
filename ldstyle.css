@@ -1,5 +1,9 @@
 /*latest styles*/
 /*todo: make this into white background, black text. with supporting eles in blue. simple*/
+* {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
 #me {
 	font-family:"comic-sans";
 	font-size:80px;
