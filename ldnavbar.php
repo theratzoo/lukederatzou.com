@@ -39,6 +39,7 @@
                     <li><a href="/portfolio/drag-and-drop">Drag-and-drop Editor</a></li>
                     <li><a href="/portfolio/substring-research">Substring Research Project</a></li>
                     <li><a href="/portfolio/meowtations">Summer Video Game (ongoing)</a></li>
+                    <li><a href="/portfolio/webware-final-project">Webware Final Project</a></li>
                     <!--<li><a href="/portfolio/future-projects">Future Projects</a></li>-->
                     </ul>
                 </li>
